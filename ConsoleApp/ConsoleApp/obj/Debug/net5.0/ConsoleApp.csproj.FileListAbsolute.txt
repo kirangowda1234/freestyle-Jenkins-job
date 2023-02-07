@@ -1,0 +1,16 @@
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\kirana\OneDrive - Nagarro\Documents\Assignment 2 jenknis.net\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
